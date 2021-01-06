@@ -9,9 +9,9 @@ Right now I'm not working on anything special but is always looking for
 fun projects to help with.
 
 ### How to reach me
-📧: [Email](mailto:liamrabe@hotmail.com)
-
-👨‍💻: [LinkedIn](https://linkedin.com/in/liamrabe)
+[Email](mailto:liamrabe@hotmail.com)
+[LinkedIn](https://linkedin.com/in/liamrabe)
+[Hackerrank](https://www.hackerrank.com/liamrabe)
 
 ### Have a question?
 Dont hesitate to send me an email with your question and I'll try to answer
