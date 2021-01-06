@@ -1,16 +1,18 @@
-### Hi there 👋
+## Hi there 👋
+My name is Liam Rabe, I am a self taught coder from the wonderful land
+of Sweden. I've been writing code for the web since I was around 10-11 years old.
 
-<!--
-**liamrabe/liamrabe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My current passion is backend programming with PHP.
 
-Here are some ideas to get you started:
+### What am I working on at the moment?
+Right now I'm not working on any thing special but is always looking for
+fun projects to help with.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### How to reach me
+[Email](mailto:liamrabe@hotmail.com)
+
+[LinkedIn](https://linkedin.com/in/liamrabe)
+
+### Have a question?
+Dont hesitate to send me an email with your question and I'll try to answer
+it as best as I can.
