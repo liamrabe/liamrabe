@@ -10,7 +10,9 @@ fun projects to help with.
 
 ### How to reach me
 [Email](mailto:liamrabe@hotmail.com)
+
 [LinkedIn](https://linkedin.com/in/liamrabe)
+
 [Hackerrank](https://www.hackerrank.com/liamrabe)
 
 ### Have a question?
