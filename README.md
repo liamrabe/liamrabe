@@ -5,7 +5,7 @@ of Sweden. I've been writing code for the web since I was around 10-11 years old
 My current passion is backend programming with PHP.
 
 ### What am I working on at the moment?
-Right now I'm not working on any thing special but is always looking for
+Right now I'm not working on anything special but is always looking for
 fun projects to help with.
 
 ### How to reach me
